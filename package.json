@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Sagor",
+  "author": "Adrita",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
